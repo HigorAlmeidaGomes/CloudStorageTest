@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "luTyUd4RO7FKNl/yJJneZaNV/L/T+Bw5YoiMBuAf8hsZi5SU/i6xNO6hSfDQ9xKF2kJA8a7lq1TmNKvWh1egdw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\CloudStorageTest\\CloudStorageTest\\CloudStorageTest.API\\CloudStorageTest.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512",
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
